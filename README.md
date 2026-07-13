@@ -1,3 +1,10 @@
+---
+layout: default
+title: VPN-подписки и VLESS Reality конфигурации
+description: Подборка обновляемых VPN-подписок и конфигураций VLESS, Reality, Hiddify, v2rayNG, Nekoray и sing-box.
+keywords: vpn, vless, reality, vpn-подписки, proxy, hiddify, v2rayng, nekoray, sing-box, russia
+---
+
 # besplatny-vps-servera-v-rossii
 Бесплатные VPS сервера для работы Discord, Youtube, Telegram в России
 
