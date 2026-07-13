@@ -1,7 +1,6 @@
 # besplatny-vps-servera-v-rossii
 Бесплатные VPS сервера для работы Discord, Youtube, Telegram в России
 
-`markdown
 # 🔓 VPS-подписки для России | VLESS Reality Configs
 
 [![Обновляется](https://img.shields.io/badge/статус-актуально-brightgreen)](#)
